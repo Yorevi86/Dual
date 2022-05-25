@@ -1,0 +1,229 @@
+21:41:40.740 [main] DEBUG n.javat1.game.Ranking          - [<init>              ] - Created object Ranking without params.
+21:41:40.751 [main] DEBUG nttdata.javat1.game.Ball       - [<init>              ] - Created object Ball without params.
+21:41:40.751 [main] DEBUG nttdata.javat1.game.Game       - [launch              ] - Entering method launch.
+21:41:40.751 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.751 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@2f8f5f62
+21:41:40.751 [main] DEBUG nttdata.javat1.game.Game       - [upperLateralBounce  ] - Entering method upperLateralBounce.
+21:41:40.751 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.751 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@1068e947
+21:41:40.751 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 30
+21:41:40.752 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.752 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@7dc222ae
+21:41:40.752 [main] DEBUG nttdata.javat1.game.Game       - [halfTunnel          ] - Entering method halfTunnel.
+21:41:40.752 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 130
+21:41:40.752 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.752 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@aecb35a
+21:41:40.752 [main] DEBUG nttdata.javat1.game.Game       - [specialBouncing     ] - Entering method upperLateralBounce.
+21:41:40.752 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.752 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@5fcd892a
+21:41:40.752 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 530
+21:41:40.752 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.752 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@8b87145
+21:41:40.752 [main] DEBUG nttdata.javat1.game.Game       - [fullTunnel          ] - Entering method fullTunnel.
+21:41:40.752 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.753 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@6483f5ae
+21:41:40.753 [main] DEBUG nttdata.javat1.game.Game       - [fullTunnel          ] - Entering method fullTunnel, case 3.
+21:41:40.753 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 2530
+21:41:40.753 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.753 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@b9afc07
+21:41:40.753 [main] DEBUG nttdata.javat1.game.Game       - [fullTunnel          ] - Entering method fullTunnel.
+21:41:40.753 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.753 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@382db087
+21:41:40.753 [main] DEBUG nttdata.javat1.game.Game       - [fullTunnel          ] - Entering method fullTunnel, case 0.
+21:41:40.753 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 2530
+21:41:40.753 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.754 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@73d4cc9e
+21:41:40.754 [main] DEBUG nttdata.javat1.game.Game       - [fullTunnel          ] - Entering method fullTunnel.
+21:41:40.754 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.754 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@80169cf
+21:41:40.754 [main] DEBUG nttdata.javat1.game.Game       - [fullTunnel          ] - Entering method fullTunnel, case 5.
+21:41:40.754 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 27530
+21:41:40.754 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.754 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@5427c60c
+21:41:40.754 [main] DEBUG nttdata.javat1.game.Game       - [bouncing            ] - Entering method upperLateralBounce.
+21:41:40.754 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.754 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@15bfd87
+21:41:40.754 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 27670
+21:41:40.754 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.754 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@543e710e
+21:41:40.755 [main] DEBUG nttdata.javat1.game.Game       - [specialBouncing     ] - Entering method upperLateralBounce.
+21:41:40.755 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.755 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@57f23557
+21:41:40.755 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 27970
+21:41:40.755 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.755 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@3d0f8e03
+21:41:40.755 [main] DEBUG nttdata.javat1.game.Game       - [fullTunnel          ] - Entering method fullTunnel.
+21:41:40.755 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.755 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@6366ebe0
+21:41:40.755 [main] DEBUG nttdata.javat1.game.Game       - [fullTunnel          ] - Entering method fullTunnel, case 2.
+21:41:40.755 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 28970
+21:41:40.755 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.755 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@44f75083
+21:41:40.755 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 78970
+21:41:40.755 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.755 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@2698dc7
+21:41:40.755 [main] DEBUG nttdata.javat1.game.Game       - [splitBridge         ] - Entering method splitBridge.
+21:41:40.755 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 81470
+21:41:40.756 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.756 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@43d7741f
+21:41:40.756 [main] DEBUG nttdata.javat1.game.Game       - [halfTunnel          ] - Entering method halfTunnel.
+21:41:40.756 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 81570
+21:41:40.756 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.756 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@17baae6e
+21:41:40.756 [main] DEBUG nttdata.javat1.game.Game       - [bouncing            ] - Entering method upperLateralBounce.
+21:41:40.756 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.756 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@69379752
+21:41:40.756 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 81700
+21:41:40.756 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.757 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@27fe3806
+21:41:40.757 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Game finished with final score of the ball: 81700
+21:41:40.757 [main] DEBUG nttdata.javat1.game.Ball       - [<init>              ] - Created object Ball without params.
+21:41:40.757 [main] DEBUG nttdata.javat1.game.Game       - [launch              ] - Entering method launch.
+21:41:40.757 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.757 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@5f71c76a
+21:41:40.757 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 50000
+21:41:40.757 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.757 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@1d7acb34
+21:41:40.757 [main] DEBUG nttdata.javat1.game.Game       - [specialBouncing     ] - Entering method upperLateralBounce.
+21:41:40.757 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.757 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@48a242ce
+21:41:40.757 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 50400
+21:41:40.757 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.757 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@1e4a7dd4
+21:41:40.757 [main] DEBUG nttdata.javat1.game.Game       - [splitBridge         ] - Entering method splitBridge.
+21:41:40.757 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 52900
+21:41:40.757 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.758 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@4f51b3e0
+21:41:40.758 [main] DEBUG nttdata.javat1.game.Game       - [specialBouncing     ] - Entering method upperLateralBounce.
+21:41:40.758 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.758 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@4b9e255
+21:41:40.758 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 53400
+21:41:40.758 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.758 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@5e57643e
+21:41:40.758 [main] DEBUG nttdata.javat1.game.Game       - [specialBouncing     ] - Entering method upperLateralBounce.
+21:41:40.758 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.758 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@133e16fd
+21:41:40.758 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 53900
+21:41:40.758 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.758 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@51b279c9
+21:41:40.758 [main] DEBUG nttdata.javat1.game.Game       - [bouncing            ] - Entering method upperLateralBounce.
+21:41:40.758 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.758 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@1ad282e0
+21:41:40.758 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 53930
+21:41:40.758 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.758 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@7f416310
+21:41:40.759 [main] DEBUG nttdata.javat1.game.Game       - [upperLateralBounce  ] - Entering method upperLateralBounce.
+21:41:40.759 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.759 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@1cab0bfb
+21:41:40.759 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 53960
+21:41:40.759 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.759 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@5e955596
+21:41:40.759 [main] DEBUG nttdata.javat1.game.Game       - [completeBridge      ] - Entering method completeBridge.
+21:41:40.759 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 83960
+21:41:40.759 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.759 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@50de0926
+21:41:40.759 [main] DEBUG nttdata.javat1.game.Game       - [splitBridge         ] - Entering method splitBridge.
+21:41:40.759 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 86460
+21:41:40.759 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.759 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@2473b9ce
+21:41:40.760 [main] DEBUG nttdata.javat1.game.Game       - [specialBouncing     ] - Entering method upperLateralBounce.
+21:41:40.760 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.760 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@60438a68
+21:41:40.760 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 86810
+21:41:40.760 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.760 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@140e5a13
+21:41:40.760 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Game finished with final score of the ball: 86810
+21:41:40.760 [main] DEBUG nttdata.javat1.game.Ball       - [<init>              ] - Created object Ball without params.
+21:41:40.760 [main] DEBUG nttdata.javat1.game.Game       - [launch              ] - Entering method launch.
+21:41:40.760 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.760 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@3439f68d
+21:41:40.761 [main] DEBUG nttdata.javat1.game.Game       - [splitBridge         ] - Entering method splitBridge.
+21:41:40.761 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 2500
+21:41:40.761 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.761 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@dbd940d
+21:41:40.761 [main] DEBUG nttdata.javat1.game.Game       - [splitBridge         ] - Entering method splitBridge.
+21:41:40.761 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 5000
+21:41:40.761 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:40.761 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@71d15f18
+21:41:40.761 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Game finished with final score of the ball: 5000
+21:41:41.315 [main] DEBUG n.javat1.game.Ranking          - [<init>              ] - Created object Ranking without params.
+21:41:41.315 [main] DEBUG nttdata.javat1.game.Ball       - [<init>              ] - Created object Ball without params.
+21:41:41.315 [main] DEBUG nttdata.javat1.game.Game       - [launch              ] - Entering method launch.
+21:41:41.315 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:41.315 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@17695df3
+21:41:41.315 [main] DEBUG nttdata.javat1.game.Game       - [halfTunnel          ] - Entering method halfTunnel.
+21:41:41.315 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 100
+21:41:41.315 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:41.316 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@6c9f5c0d
+21:41:41.316 [main] DEBUG nttdata.javat1.game.Game       - [specialBouncing     ] - Entering method upperLateralBounce.
+21:41:41.316 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:41.316 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@de3a06f
+21:41:41.316 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 350
+21:41:41.316 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:41.316 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@76b10754
+21:41:41.316 [main] DEBUG nttdata.javat1.game.Game       - [splitBridge         ] - Entering method splitBridge.
+21:41:41.316 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 2850
+21:41:41.316 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:41.316 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@2bea5ab4
+21:41:41.316 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 52850
+21:41:41.316 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:41.317 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@3d8314f0
+21:41:41.317 [main] DEBUG nttdata.javat1.game.Game       - [specialBouncing     ] - Entering method upperLateralBounce.
+21:41:41.317 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:41.317 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@2df32bf7
+21:41:41.317 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 53000
+21:41:41.317 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:41.317 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@530612ba
+21:41:41.317 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 103000
+21:41:41.317 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:41.317 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@2a40cd94
+21:41:41.317 [main] DEBUG nttdata.javat1.game.Game       - [lateralBounce       ] - Entering method upperLateralBounce.
+21:41:41.317 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:41.317 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@f4168b8
+21:41:41.318 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 103020
+21:41:41.318 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:41.318 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@3bd94634
+21:41:41.318 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Game finished with final score of the ball: 103020
+21:41:41.318 [main] DEBUG nttdata.javat1.game.Ball       - [<init>              ] - Created object Ball without params.
+21:41:41.318 [main] DEBUG nttdata.javat1.game.Game       - [launch              ] - Entering method launch.
+21:41:41.318 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:41.318 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@58a90037
+21:41:41.318 [main] DEBUG nttdata.javat1.game.Game       - [fullTunnel          ] - Entering method fullTunnel.
+21:41:41.318 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:41.318 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@74294adb
+21:41:41.318 [main] DEBUG nttdata.javat1.game.Game       - [fullTunnel          ] - Entering method fullTunnel, case 0.
+21:41:41.319 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 0
+21:41:41.319 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:41.319 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@70a9f84e
+21:41:41.319 [main] DEBUG nttdata.javat1.game.Game       - [specialBouncing     ] - Entering method upperLateralBounce.
+21:41:41.319 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:41.319 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@130f889
+21:41:41.319 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 200
+21:41:41.319 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:41.319 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@1188e820
+21:41:41.319 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Game finished with final score of the ball: 200
+21:41:41.319 [main] DEBUG nttdata.javat1.game.Ball       - [<init>              ] - Created object Ball without params.
+21:41:41.320 [main] DEBUG nttdata.javat1.game.Game       - [launch              ] - Entering method launch.
+21:41:41.320 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:41.320 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@2f490758
+21:41:41.320 [main] DEBUG nttdata.javat1.game.Game       - [completeBridge      ] - Entering method completeBridge.
+21:41:41.320 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Actual score of the ball: 30000
+21:41:41.320 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Entering method Random.
+21:41:41.320 [main] DEBUG nttdata.javat1.game.Game       - [Random              ] - Number generated: java.util.Random@101df177
+21:41:41.320 [main] INFO  nttdata.javat1.game.Game       - [launch              ] - Game finished with final score of the ball: 30000
+21:41:44.445 [main] DEBUG nttdata.javat1.game.Game       - [showRanking         ] - Entering method showRanking.
+21:41:46.977 [main] DEBUG nttdata.javat1.game.Game       - [showRanking         ] - Entering method showRanking.
+21:46:00.251 [main] ERROR nttdata.javat1.game.Game       - [launchAndStart      ] - Tried to enter 0 into a do while in method [launchAndStart()]
+21:46:00.256 [main] ERROR nttdata.javat1.game.Game       - [launchAndStart      ] - Tried to enter 0 into a do while in method [launchAndStart()]
+21:46:04.009 [main] ERROR nttdata.javat1.game.Game       - [launchAndStart      ] - Tried to enter 0 into a do while in method [launchAndStart()]
+21:46:04.639 [main] ERROR nttdata.javat1.game.Game       - [launchAndStart      ] - Tried to enter 0 into a do while in method [launchAndStart()]
+21:46:05.229 [main] ERROR nttdata.javat1.game.Game       - [launchAndStart      ] - Tried to enter 0 into a do while in method [launchAndStart()]
+21:46:05.846 [main] ERROR nttdata.javat1.game.Game       - [launchAndStart      ] - Tried to enter 0 into a do while in method [launchAndStart()]
+21:46:07.164 [main] ERROR nttdata.javat1.game.Game       - [launchAndStart      ] - Tried to enter 0 into a do while in method [launchAndStart()]
+21:46:39.296 [main] ERROR nttdata.javat1.game.Game       - [launchAndStart      ] - Tried to enter 0 into a do while in method [launchAndStart()]
+21:46:39.297 [main] ERROR nttdata.javat1.game.Game       - [launchAndStart      ] - Tried to enter 0 into a do while in method [launchAndStart()]
+21:49:33.044 [main] ERROR nttdata.javat1.game.Game       - [launchAndStart      ] - Tried to enter 0 into a do while in method [launchAndStart()]
+21:52:43.841 [main] ERROR nttdata.javat1.game.Game       - [launchAndStart      ] - Tried to enter 0 into a do while in method [launchAndStart()]
+21:52:45.599 [main] WARN  nttdata.javat1.game.Game       - [playPinball         ] - User attempted to play without setting a name.
+21:54:20.590 [main] WARN  nttdata.javat1.game.Game       - [playPinball         ] - User attempted to play without setting a name.
+21:54:24.946 [main] ERROR nttdata.javat1.game.Game       - [launchAndStart      ] - Tried to enter 0 into a do while in method [launchAndStart()]

@@ -1,0 +1,12 @@
+21:46:00.251 [main] ERROR nttdata.javat1.game.Game       - [launchAndStart      ] - Tried to enter 0 into a do while in method [launchAndStart()]
+21:46:00.256 [main] ERROR nttdata.javat1.game.Game       - [launchAndStart      ] - Tried to enter 0 into a do while in method [launchAndStart()]
+21:46:04.009 [main] ERROR nttdata.javat1.game.Game       - [launchAndStart      ] - Tried to enter 0 into a do while in method [launchAndStart()]
+21:46:04.639 [main] ERROR nttdata.javat1.game.Game       - [launchAndStart      ] - Tried to enter 0 into a do while in method [launchAndStart()]
+21:46:05.229 [main] ERROR nttdata.javat1.game.Game       - [launchAndStart      ] - Tried to enter 0 into a do while in method [launchAndStart()]
+21:46:05.846 [main] ERROR nttdata.javat1.game.Game       - [launchAndStart      ] - Tried to enter 0 into a do while in method [launchAndStart()]
+21:46:07.164 [main] ERROR nttdata.javat1.game.Game       - [launchAndStart      ] - Tried to enter 0 into a do while in method [launchAndStart()]
+21:46:39.296 [main] ERROR nttdata.javat1.game.Game       - [launchAndStart      ] - Tried to enter 0 into a do while in method [launchAndStart()]
+21:46:39.297 [main] ERROR nttdata.javat1.game.Game       - [launchAndStart      ] - Tried to enter 0 into a do while in method [launchAndStart()]
+21:49:33.044 [main] ERROR nttdata.javat1.game.Game       - [launchAndStart      ] - Tried to enter 0 into a do while in method [launchAndStart()]
+21:54:20.590 [main] WARN  nttdata.javat1.game.Game       - [playPinball         ] - User attempted to play without setting a name.
+21:54:24.946 [main] ERROR nttdata.javat1.game.Game       - [launchAndStart      ] - Tried to enter 0 into a do while in method [launchAndStart()]

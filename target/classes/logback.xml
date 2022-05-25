@@ -1,0 +1,69 @@
+<configuration debug="true">
+	
+	<!-- VARIABLE ASOCIADA A LA FECHA-->
+	<timestamp key="todayDate" datePattern="dd-MM-yyyy" />
+	
+	<!-- APPENDER -->
+	<appender name="FileAppender" class="ch.qos.logback.core.rolling.RollingFileAppender">
+	
+		<!-- FORMATO DE SALIDA DE LA TRAZA -->
+		<encoder>
+			<pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %-30logger{26} - [%-20method] - %msg%n</pattern>
+		</encoder>
+	
+		<!--NOMBRE DEL FICHERO -->
+		<file>src/main/resources/logJCV-${todayDate}.log</file>
+	
+		<!-- POLÍTICA CON LA QUE PARTICIONA EL FICHERO -->
+		<rollingPolicy class="ch.qos.logback.core.rolling.FixedWindowRollingPolicy">
+			<fileNamePattern>src/main/resources/logJCV-${todayDate}.%i.logJCV.zip</fileNamePattern>
+			
+			<!-- TAMAÑO MÁXIMO DEL CONJUNTO DE LOGS FICHEROS -->
+			<totalSizeCap>5Mb</totalSizeCap>
+		
+			<!-- CANTIDAD DE FICHEROS -->
+			<minIndex>1</minIndex>
+			<maxIndex>3</maxIndex>
+		</rollingPolicy>
+		
+		<triggeringPolicy class="ch.qos.logback.core.rolling.SizeBasedTriggeringPolicy">
+	      		<maxFileSize>50KB</maxFileSize>
+	   	</triggeringPolicy>
+		
+	</appender>
+	
+	<!-- APPENDER -->
+	<appender name="WarningFileAppender" class="ch.qos.logback.core.rolling.RollingFileAppender">
+	
+		<!-- FORMATO DE SALIDA DE LA TRAZA -->
+		<encoder>
+			<pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %-30logger{26} - [%-20method] - %msg%n</pattern>
+		</encoder>
+	
+		<!--NOMBRE DEL FICHERO -->
+		<file>src/main/resources/logJCV-WARN-${todayDate}.log</file>
+	
+		<!-- POLÍTICA CON LA QUE PARTICIONA EL FICHERO -->
+		<rollingPolicy class="ch.qos.logback.core.rolling.FixedWindowRollingPolicy">
+			<fileNamePattern>src/main/resources/logJCV-WARN-${todayDate}.%i.logJCV.zip</fileNamePattern>
+			
+			<!-- TAMAÑO MÁXIMO DEL CONJUNTO DE LOGS FICHEROS -->
+			<totalSizeCap>5Mb</totalSizeCap>
+		</rollingPolicy>
+		
+		<triggeringPolicy class="ch.qos.logback.core.rolling.SizeBasedTriggeringPolicy">
+	      		<maxFileSize>1Mb</maxFileSize>
+	   	</triggeringPolicy>
+		
+	</appender>
+	
+	<!-- LOGGER y NIVEL DE TRAZA -->
+	<root level="debug">
+		<appender-ref ref="FileAppender"/>
+	</root>
+	
+	<root level="warn">
+		<appender-ref ref="WarningFileAppender"/>
+	</root>
+	
+</configuration>
